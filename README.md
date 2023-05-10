@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'am a Mobile Developer<br>🌱 I graduated in Computer Engineering at the Federal University of Pampa and I'm doing a master's degree in Computer Science at the Federal University of Pelotas.<br>😄 And i love Flutter <3
+# Hi, I'm Giuliana:
+🔭 I'am a Mobile Developer<br>🌱 I graduated in Computer Engineering at the Federal University of Pampa and I'm doing a master's degree in Computer Science at the Federal University of Pelotas.<br>😄 And I love Flutter <3
 
 
 ## 🌐 Socials:
